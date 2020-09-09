@@ -58,23 +58,7 @@
 
 
 
-### 🙈 statistics
 
-
-<p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tersonly&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tersonly&theme=radical&layout=compact&hide=glsl,python" />
-
-</p>
-
-
-
-
-### 🌱 Connect Me
-[![Tecent-QQ](https://img.shields.io/badge/-qq-white?style=flat-square&logo=tencent-qq&logoColor=red&link=)](2245918266)
-![Github](https://img.shields.io/github/followers/tersonly?label=Github&style=social)
-
-![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
 
 
 
