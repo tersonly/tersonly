@@ -1,51 +1,76 @@
-![header.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/header.png)
-
-<i><b>diss带码</b></i>
-
-<hr>
 <p align="center">
   <i><b>请欣赏动态美景</b></i>
-
+  
 ![必应每日一图](https://api.lyiqk.cn/bing/)
 
 
 
-<img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
+<img align="right" width="100" height="100" src="https://avatars2.githubusercontent.com/u/20390658?s=400&u=cfa6da2194e4023a71bd4bd91c50d5416a25ea43&v=4">
 
 ### :sunglasses: About
 
-​	Hi！🙉
+​	Hi！😎    
 
-​	后端：🔆🉑
+​	后端：🔆 C#
 
-​	前端：💯🈲
-
-​	位置：㊙
-
+​	位置：🗺
 
 ### 🤝🏻 Tech Stack
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
+[![c#](https://img.shields.io/badge/NetCore-black?style=flat&logo=.net&logoColor=green&link=https://github.com/tersonly/aspnetcore)](https://github.com/tersonly/aspnetcore)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://hub.docker.com/search?q=&type=image)](https://hub.docker.com/search?q=&type=image)
+[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=http://doc.redisfans.com/)](http://doc.redisfans.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/tersonly/mysql-tutorial)](https://github.com/tersonly/mysql-tutorial)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://learngitbranching.js.org/?locale=zh_CN)](https://learngitbranching.js.org/?locale=zh_CN) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tersonly)](https://github.com/tersonly)
+
 
 
 ### 👀 Active Repo
-<br />
-<p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
-</p>
+
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=dotnet&theme=radical" /><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=aspnetcore&theme=radical" /></p> 
+<br /><br/><br/><br />
+
+### 
+<p><img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=extensions&theme=radical" />
+<img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=abp&theme=radical" /></p>
+<br /><br/><br/><br />
+
+
+
+### 
+
+<p><img align="left" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=awesome-dotnet-core&theme=radical" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=DotNetCoreArchitecture&theme=radical" /></p>
+<br /><br/><br/><br />
+
+### 
+
+<p><img align="left" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=Design-Pattern&theme=radical" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=interviews&theme=radical" /></p>
+<br /><br/><br/><br />
+
+###  
+
+<p><img align="left" width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=SoMall&theme=radical" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=xbook2&theme=radical" /></p>
+<br /><br/><br/><br />
+
 
 ### 🙈 statistics
+
+
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tersonly&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tersonly&theme=radical&layout=compact&hide=glsl,python" />
+
 </p>
 
+<br /><br/><br/><br />
+
+
 ### 🌱 Connect Me
-![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/9877ae06aeaa)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://dumplingbao.github.io/)[![Mail](https://img.shields.io/badge/-bmm_java@163.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bmm_java@163.com)
+[![Tecent-QQ](https://img.shields.io/badge/-qq-white?style=flat-square&logo=tencent-qq&logoColor=red&link=)](2245918266)
+![Github](https://img.shields.io/github/followers/tersonly?label=Github&style=social)
 
 ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
-
-
-
