@@ -1,7 +1,4 @@
-<p align="center">
-  <i><b>请欣赏动态美景</b></i>
-  
-![必应每日一图](https://api.lyiqk.cn/bing/)
+
 
 
 
@@ -73,4 +70,4 @@
 [![Tecent-QQ](https://img.shields.io/badge/-qq-white?style=flat-square&logo=tencent-qq&logoColor=red&link=)](2245918266)
 ![Github](https://img.shields.io/github/followers/tersonly?label=Github&style=social)
 
-![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
+
