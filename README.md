@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/xzMhehe"><img align='right' src="https://github-readme-stats.vercel.app/api?username=xzMhehe&show_icons=true"></a>
+<a href="https://github.com/tersonly"><img align='right' src="https://github-readme-stats.vercel.app/api?username=tersonly&show_icons=true"></a>
 
-### Hi there👋 I'm xzMhehe :snowflake:
+### Hi there👋 I'm tersonly :snowflake:
 
 [![Blog](http://image.codingce.com.cn/blog/20200819/102828838.svg)](https://i.codingce.com.cn/)
 [![codingce@gmail.com](http://image.codingce.com.cn/blog/20200819/104221397.svg)](mailto:codingce@gmail.com)
