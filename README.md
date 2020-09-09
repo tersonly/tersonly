@@ -4,7 +4,7 @@
  * @Author: xiaozhenli
  * @Date: 2020-09-09 22:06:25
  * @LastEditors: xiaozhenli
- * @LastEditTime: 2020-09-10 00:36:06
+ * @LastEditTime: 2020-09-10 00:37:53
  * @FilePath: c:\Users\xiaozhenli\Desktop\Untitled-1.md
 -->
 
@@ -38,23 +38,23 @@
 
 ### 👀 Active Repo
 
-<p><img align="left" width="260"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=dotnet&theme=radical" /><img align="right" width="260"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=aspnetcore&theme=radical" /></p> 
+<p><img align="left" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=dotnet&theme=radical" /><img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=aspnetcore&theme=radical" /></p> 
 
 
-<p><img align="left" width="260" height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=extensions&theme=radical" />
-<img align="right" width="260"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=abp&theme=radical" /></p>
+<p><img align="left" width="50%" height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=extensions&theme=radical" />
+<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=abp&theme=radical" /></p>
 
 
-<p><img align="left" width="260" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=awesome-dotnet-core&theme=radical" />
-<img align="right" width="260"   height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=DotNetCoreArchitecture&theme=radical" /></p>
+<p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=awesome-dotnet-core&theme=radical" />
+<img align="right" width="50%"   height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=DotNetCoreArchitecture&theme=radical" /></p>
 
 
-<p><img align="left" width="260" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=Design-Pattern&theme=radical" />
-<img align="right" width="260"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=interviews&theme=radical" /></p>
+<p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=Design-Pattern&theme=radical" />
+<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=interviews&theme=radical" /></p>
 
 
-<p><img align="left" width="260" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=SoMall&theme=radical" />
-<img align="right" width="260"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=xbook2&theme=radical" /></p>
+<p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=SoMall&theme=radical" />
+<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=xbook2&theme=radical" /></p>
 
 
 
