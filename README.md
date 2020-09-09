@@ -4,14 +4,14 @@
  * @Author: xiaozhenli
  * @Date: 2020-09-09 22:06:25
  * @LastEditors: xiaozhenli
- * @LastEditTime: 2020-09-10 00:41:41
+ * @LastEditTime: 2020-09-10 00:43:44
  * @FilePath: c:\Users\xiaozhenli\Desktop\Untitled-1.md
 -->
 
-<p align="center">
+<!-- <p align="center">
   <i><b>请欣赏动态美景</b></i>
   
-![必应每日一图](https://api.lyiqk.cn/bing/)
+![必应每日一图](https://api.lyiqk.cn/bing/) -->
 
 
 
@@ -44,7 +44,7 @@
 <p><img align="left" width="50%" height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=extensions&theme=radical" />
 <img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=DotNetCoreArchitecture&theme=radical" /></p>
 
-
+<!-- 
 <p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=awesome-dotnet-core&theme=radical" />
 <img align="right" width="50%"   height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=SoMall&theme=radical" /></p>
 
@@ -54,7 +54,7 @@
 
 
 <p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=abp&theme=radical" />
-<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=xbook2&theme=radical" /></p>
+<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=xbook2&theme=radical" /></p> -->
 
 
 
@@ -72,9 +72,9 @@
 
 ### 🌱 Connect Me
 [![Tecent-QQ](https://img.shields.io/badge/-qq-white?style=flat-square&logo=tencent-qq&logoColor=red&link=)](2245918266)
-![Github](https://img.shields.io/github/followers/tersonly?label=Github&style=social)
 
-![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png)
+
+<!-- ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png) -->
 
 
 
