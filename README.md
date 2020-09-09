@@ -32,7 +32,5 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tersonly&theme=radical&layout=compact" />
 </p>
 
-### 
-[![Tecent-QQ](https://img.shields.io/badge/-qq-white?style=flat-square&logo=tencent-qq&logoColor=red&link=)](2245918266)
 
 
