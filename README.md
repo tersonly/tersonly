@@ -1,20 +1,3 @@
-<!--
- * @Descripttion: 文件用途：
- * @version: 0.0.0.0
- * @Author: xiaozhenli
- * @Date: 2020-09-09 22:06:25
- * @LastEditors: xiaozhenli
- * @LastEditTime: 2020-09-10 00:43:44
- * @FilePath: c:\Users\xiaozhenli\Desktop\Untitled-1.md
--->
-
-<!-- <p align="center">
-  <i><b>请欣赏动态美景</b></i>
-  
-![必应每日一图](https://api.lyiqk.cn/bing/) -->
-
-
-
 <img align="right" width="100" height="100" src="https://avatars2.githubusercontent.com/u/20390658?s=400&u=cfa6da2194e4023a71bd4bd91c50d5416a25ea43&v=4">
 
 ### :sunglasses: About
@@ -37,44 +20,18 @@
 
 
 ### 👀 Active Repo
-
-<p><img align="left" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=dotnet&theme=radical" /><img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=aspnetcore&theme=radical" /></p> 
-
-
-<p><img align="left" width="50%" height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=extensions&theme=radical" />
-<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=DotNetCoreArchitecture&theme=radical" /></p>
-
-<!-- 
-<p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=awesome-dotnet-core&theme=radical" />
-<img align="right" width="50%"   height="100"  src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=SoMall&theme=radical" /></p>
-
-
-<p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=Design-Pattern&theme=radical" />
-<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=interviews&theme=radical" /></p>
-
-
-<p><img align="left" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=abp&theme=radical" />
-<img align="right" width="50%"  height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=xbook2&theme=radical" /></p> -->
-
-
-
-### 🙈 statistics
-
-
 <p>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=tersonly&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tersonly&theme=radical&layout=compact&hide=glsl,python" />
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=dotnet&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=tersonly&repo=aspnetcore&theme=radical" />
 </p>
 
+### 🙈 statistics
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tersonly&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="tersonly's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tersonly&theme=radical&layout=compact" />
+</p>
 
-
-
-### 🌱 Connect Me
+### 🌱 Connect Me 
 [![Tecent-QQ](https://img.shields.io/badge/-qq-white?style=flat-square&logo=tencent-qq&logoColor=red&link=)](2245918266)
-
-
-<!-- ![foot.png](https://ossbao.oss-cn-qingdao.aliyuncs.com/github/foot.png) -->
-
 
 
